@@ -37,18 +37,7 @@ This project leverages the following technologies:
   - Anaconda (virtual environments) and Visual Studio Code  
 
 
-
-# 3. Project structure
-Each folder/file content and purpose is described below:
-
-- Input: Stores all the input data used in the project.
-- Models: Stores all the constructed models saved into pkl files.
-- Notebooks: Contains exploratory data analysis and modelling jupyter notebooks.
-- Reports: Stores all the images used for project documentation.
-- Src: Contains all the scripts used in the project - artifacts_utils.py, modelling_utils.py and exception.py.
-- Requirements, setup, gitignore, readme: The file setup.py allows me to build my entire project as a package, containing metadata and so on. Moreover, requirements.txt list all the dependencies needed for the project with the specific versions for reproducibility. Gitignore allows me to hide irrelevant information from commits and I am using readme.md for documentation and storytelling.
-
-# 4. Business problem and project objectives
+# 3. Business problem and project objectives
 A retail store manager is strategizing to manage inventory and investments across 10 stores for 50 products, aiming to meet customer demand effectively. By employing predictive analytics, they aim to improve sales predictions, maintain product availability, and boost overall store performance.
 
 Considering this, the project objectives are:
@@ -60,7 +49,7 @@ The project's financial outcomes will enable the manager to effectively oversee 
 
 As a result, the business problem will be resolved.
 
-# 5. Solution pipeline
+# 4. Solution pipeline
 The following pipeline was used, based on CRISP-DM framework
 
 1. Business understanding.
